@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+	<User userId="Ivan" email="aspkx@mail.ru" />
+	<User userId="Nikolay" email="aspkx@mail.ru" />
+	<User userId="Oleg" email="aspkx@mail.ru" />
+</UserDetails>
