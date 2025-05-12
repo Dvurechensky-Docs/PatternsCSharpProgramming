@@ -1,10 +1,18 @@
+п»ї/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 РјР°СЏ 2025 03:31:02
+ * Version: 1.0.7
+ */
+
 namespace LetCode.Tests
 {
     [TestClass]
     public class Tests
     {
         /// <summary>
-        /// Индексы чисел в массиве образующих число target
+        /// РРЅРґРµРєСЃС‹ С‡РёСЃРµР» РІ РјР°СЃСЃРёРІРµ РѕР±СЂР°Р·СѓСЋС‰РёС… С‡РёСЃР»Рѕ target
         /// </summary>
         [TestMethod]
         public void TwoSumTest()

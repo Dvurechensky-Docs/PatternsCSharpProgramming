@@ -6,7 +6,8 @@
 #
 # or wget:
 # wget --no-check-certificate http://gist.githubusercontent.com/kmorcinek/2710267/raw/.gitignore
-
+pre_commit.ps1
+pre_commit.log
 # User-specific files
 *.suo
 *.user

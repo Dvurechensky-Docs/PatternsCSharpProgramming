@@ -1,3 +1,11 @@
+п»ї/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 РјР°СЏ 2025 03:31:02
+ * Version: 1.0.7
+ */
+
 namespace Base.UserLibrary.Tests
 {
     [TestClass]
@@ -12,11 +20,11 @@ namespace Base.UserLibrary.Tests
         private UserManagerMsTest manager = new UserManagerMsTest();
 
         /// <summary>
-        /// DataSource - определение источника данных
-        /// 1 параметр - имя провайдера
-        /// 2 параметр - строка подключения или путь к файлу
-        /// 3 параметр - имя таблицы или элемента XML
-        /// 4 параметр - как происходит доступ к записям из источника данных
+        /// DataSource - РѕРїСЂРµРґРµР»РµРЅРёРµ РёСЃС‚РѕС‡РЅРёРєР° РґР°РЅРЅС‹С…
+        /// 1 РїР°СЂР°РјРµС‚СЂ - РёРјСЏ РїСЂРѕРІР°Р№РґРµСЂР°
+        /// 2 РїР°СЂР°РјРµС‚СЂ - СЃС‚СЂРѕРєР° РїРѕРґРєР»СЋС‡РµРЅРёСЏ РёР»Рё РїСѓС‚СЊ Рє С„Р°Р№Р»Сѓ
+        /// 3 РїР°СЂР°РјРµС‚СЂ - РёРјСЏ С‚Р°Р±Р»РёС†С‹ РёР»Рё СЌР»РµРјРµРЅС‚Р° XML
+        /// 4 РїР°СЂР°РјРµС‚СЂ - РєР°Рє РїСЂРѕРёСЃС…РѕРґРёС‚ РґРѕСЃС‚СѓРї Рє Р·Р°РїРёСЃСЏРј РёР· РёСЃС‚РѕС‡РЅРёРєР° РґР°РЅРЅС‹С…
         /// </summary>
         [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML",
             "TestData.xml",
