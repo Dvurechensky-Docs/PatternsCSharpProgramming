@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 31 августа 2025 07:39:46
- * Version: 1.0.14
+ * Last Updated: 01 сентября 2025 11:06:24
+ * Version: 1.0.15
  */
 
 using Microsoft.EntityFrameworkCore;
