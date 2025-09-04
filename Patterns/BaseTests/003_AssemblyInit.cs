@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 03 сентября 2025 07:57:04
- * Version: 1.0.17
+ * Last Updated: 04 сентября 2025 08:09:05
+ * Version: 1.0.18
  */
 
 namespace Base.Tests;
