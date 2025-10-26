@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 25 октября 2025 06:51:55
- * Version: 1.0.69
+ * Last Updated: 26 октября 2025 12:24:19
+ * Version: 1.0.70
  */
 
 /*  Цепочка обязанностей
