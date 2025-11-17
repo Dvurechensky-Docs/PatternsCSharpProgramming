@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 16 ноября 2025 06:51:52
- * Version: 1.0.91
+ * Last Updated: 17 ноября 2025 06:51:53
+ * Version: 1.0.92
  */
 
 /*  Хранитель + Одиночка
