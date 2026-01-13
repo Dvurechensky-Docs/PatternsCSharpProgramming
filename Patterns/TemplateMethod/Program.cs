@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 12 января 2026 06:52:01
- * Version: 1.0.148
+ * Last Updated: 13 января 2026 13:16:45
+ * Version: 1.0.149
  */
 
 /*  Шаблонный метод  
