@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://www.dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 27 февраля 2026 09:42:45
- * Version: 1.0.194
+ * Last Updated: 28 февраля 2026 15:55:35
+ * Version: 1.0.195
  */
 
 /*  Абстрактная фабрика
