@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 22 мая 2026 11:39:20
- * Version: 1.0.280
+ * Last Updated: 23 мая 2026 11:12:55
+ * Version: 1.0.281
  */
 
 /*  Фабричный метод
