@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 27 июня 2026 13:13:12
- * Version: 1.0.316
+ * Last Updated: 28 июня 2026 11:42:04
+ * Version: 1.0.317
  */
 
 /* Гибкий(плавный, текучий) строитель (интерфейс)
