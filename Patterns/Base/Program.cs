@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 19 октября 2026 09:51:53
- * Version: 1.0.430
+ * Last Updated: 20 октября 2026 06:51:55
+ * Version: 1.0.431
  */
 
 using Newtonsoft.Json;
